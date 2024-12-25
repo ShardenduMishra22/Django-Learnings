@@ -1,0 +1,9 @@
+App level 
+Project level
+Root level
+
+uv is faster 
+
+if we want to specify a port we can do taht by writting port number after run server command 
+
+1st step after creating an app make main settings.py aware
